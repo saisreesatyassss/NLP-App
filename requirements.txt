@@ -1,0 +1,6 @@
+matplotlib
+streamlit
+nltk
+requests
+bs4
+PyPDF2
